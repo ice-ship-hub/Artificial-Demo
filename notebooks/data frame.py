@@ -6,3 +6,4 @@ data = {
 "City":["Nairobi", "Kisumu", "Nakuru", "Eldoret"],
 }
 df =  pd.DataFrame(data)
+print(df)
